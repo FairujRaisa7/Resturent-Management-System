@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1687198074 source:d:\code\raisa project final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"splash.h"
+	"login.h"
+
+1687108546 d:\code\raisa project final\splash.h
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<dos.h>
+
+1687197381 d:\code\raisa project final\login.h
+	<stdio.h>
+
