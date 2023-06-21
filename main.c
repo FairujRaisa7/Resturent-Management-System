@@ -21,6 +21,7 @@ int main(void)
     splash();
     system("cls");
     login();
+
     system("D:\\rest.jpg");//picture location for showing
 
 
@@ -78,7 +79,9 @@ int main(void)
         scanf("%d",&ch);
 
         if(ch==1){
+
                 system("D:\\food.jpg");
+
         // Display the burger list
         system("cls");
         display_item_list(items, count);
@@ -147,7 +150,9 @@ int main(void)
 
 
     system("cls");
+
     system("D:\\raisa.mp3");
+
     printf("\t\t\t\t\t............Payment Getway.........\n\n\n");
     printf("==>1.Pay Cash\n");
     printf("==>2.Credit Card\n\n");

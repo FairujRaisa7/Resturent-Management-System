@@ -1,9 +1,10 @@
 # depslib dependency file v1.0
-1687198074 source:d:\code\raisa project final\main.c
+1687269929 source:d:\code\raisa project final\main.c
 	<stdio.h>
 	<stdlib.h>
 	"splash.h"
 	"login.h"
+	"menu.h"
 
 1687108546 d:\code\raisa project final\splash.h
 	<stdio.h>
@@ -12,5 +13,8 @@
 	<dos.h>
 
 1687197381 d:\code\raisa project final\login.h
+	<stdio.h>
+
+1687269929 d:\code\raisa project final\menu.h
 	<stdio.h>
 
