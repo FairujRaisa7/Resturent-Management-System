@@ -11,6 +11,7 @@ void recursiveLoading(int progress) {
         return;
     }
 
+
     // Code to be executed in each iteration
     printf("Project is Loading [%d%%]", progress);
     fflush(stdout);

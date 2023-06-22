@@ -41,6 +41,7 @@ int main(void)
     struct Item items[100];
     int count = 0;
 
+
     // Add burgers to the list
     struct Item item1 = {1, "Mexican Sub Sandwich", 210};
     struct Item item2 = {2, "Dumplings (6 pcs)", 350};
@@ -80,7 +81,7 @@ int main(void)
 
         if(ch==1){
 
-                system("D:\\food.jpg");
+        system("D:\\food.jpg");
 
         // Display the burger list
         system("cls");
